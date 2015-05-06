@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome HOJINS"
 date:   2015-05-06 21:28:52
 categories: jekyll update
 ---
